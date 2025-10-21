@@ -11,8 +11,8 @@ This repo was opened for 'How to design a basic application load balancer with a
 ## How to run
 
 ```bash
-git clone https://github.com/bedoodev/aws-ec2-elb-example.git
-cd aws-ec2-elb-example/tf
+git clone https://github.com/bedoodev/aws-ec2-alb-example.git
+cd aws-ec2-alb-example/tf
 terraform init
 terraform apply
 ```
